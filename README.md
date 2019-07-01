@@ -39,3 +39,4 @@ In any order!:
 * For the large viewport size, use the same layout as the extra large, but reverse the columns. Make this also take effect for the extra large viewport.
 * Now have it be large viewport ONLY.
 * Reverse the order of the last eight rows for the extra small viewport.
+* Our album probably doesn't look "good". Make it look not only "good" but "real good".
