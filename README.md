@@ -13,9 +13,7 @@ Today we'll be building our first little project with Bootstrap's Grid System: a
 
 ### Goals
 
-Pay careful attention to the specs here.
-
-
+Pay careful attention to the specs here!
 
 * For an "extra large" viewport, there should be 4 rows.
   * The first and last rows should have 8 images.
@@ -23,7 +21,7 @@ Pay careful attention to the specs here.
 
 * For a medium viewport, there should be 6 rows.
   * The odd-numbered rows (1, 3, and 5) should have 4 images each, with the images of even size.
-  * The even-numbred rows (2, 4, and 6) should have 3 images each, with the first 2 taking up a quarter of the width and the last taking up half.
+  * The even-numbred rows (2, 4, and 6) should have 3 images each, with the first 2 taking up a quarter of the width each and the last taking up half.
 
 * For an extra small viewport, there should be 24 rows of one photo each.
 
@@ -35,4 +33,9 @@ Pay careful attention to the specs here.
 
 ### Stretch Goals
 
-Coming soon!
+In any order!:
+* Add different photos! These Boots Are Made For Breaking In And Making Yours.
+* Add a small viewport with two columns.
+* For the large viewport size, use the same layout as the extra large, but reverse the columns. Make this also take effect for the extra large viewport.
+* Now have it be large viewport ONLY.
+* Reverse the order of the last eight rows for the extra small viewport.
