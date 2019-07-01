@@ -16,7 +16,7 @@ Today we'll be building our first little project with Bootstrap's Grid System: a
 Pay careful attention to the specs here!
 
 * For the "extra large" viewport, there should be 4 rows.
-  * The first and last rows should have 8 images. (Not that they don't have to be the same width!)
+  * The first and last rows should have 8 images. (Note that they don't have to be the same width!)
   * The middle rows should have 4 images each, with the first image in each row taking up half the space.
 
 * For the medium viewport, there should be 7 rows.
